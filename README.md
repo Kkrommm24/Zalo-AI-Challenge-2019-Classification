@@ -11,7 +11,9 @@ Các thư viện Python: pandas, numpy, scikit-learn, transformers, tensorflow, 
 1. Clone dự án về máy
 2. Tải các thư viện cần thiết trong mỗi file
 3. Tải các bộ dữ liệu được sử dụng
+    
     UIT ViSQuAD: https://www.kaggle.com/datasets/thanhnguynl/uit-visquad
+    
     Zalo AI Challenge 2019
 4. Ấn chạy các notebooks
 
